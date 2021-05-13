@@ -23,5 +23,7 @@ Follow the steps outlined below to setup the Backend of this tool locally.
 **Step 0** : Create a python virtual environment (recommended, but not necessary).
 
 **Step 1** : Activate that environment within the backend directory and do "pip3 install -r requirements.txt".
+
 **Step 2** : Run "git clone https://github.com/FlowCrypt/idn-homographs-database.git".
+
 **Step 3** : Run "python3 app.py".
